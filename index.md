@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
+正在努力学习GitHub,希望与优秀的你成为朋友。
 
-You can use the [editor on GitHub](https://github.com/Hello-shuai/shuaishuai.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
